@@ -8,6 +8,7 @@
 * [Hello](hello.md)
 * [Hello2](hello2.md)
 * [Hello3](hello3.md)
-* [TestConten](hello4.md)
+* [TestConten](testconten.md)
 * [TestContent](testcontent.md)
+* [TestContent2](testcontent2.md)
 
