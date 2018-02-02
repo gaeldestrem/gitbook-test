@@ -1,14 +1,6 @@
 # Table of contents
 
-* [gitbook-test](README.md)
-* Page 1
-  * [Page 12](page-1/page-12.md)
+* Initial page
+* [Page 1](page-1.md)
 * [Page 2](page-2.md)
-* [Page 3](page-3.md)
-* [Hello](hello.md)
-* [Hello2](hello2.md)
-* [Hello3](hello3.md)
-* [TestConten](testconten.md)
-* [TestContent](testcontent.md)
-* [TestContent2](testcontent2.md)
 

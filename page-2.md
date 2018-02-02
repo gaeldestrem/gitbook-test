@@ -1,2 +1,2 @@
-hello Page 2 totoyop
+Page 2 content
 
