@@ -6,4 +6,5 @@
 * [Page 2](page-2.md)
 * [Page 3](page-3.md)
 * [Hello](hello.md)
+* [Hello2](hello2.md)
 
